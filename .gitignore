@@ -1,0 +1,11 @@
+#IntelliJ
+.idea
+
+
+#Java-parts
+target
+target/*
+
+#Some other parts
+.classpath
+.project
